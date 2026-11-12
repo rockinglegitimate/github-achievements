@@ -4,7 +4,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxyghghj-brain-default.png" alt="Galaxy Brain" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
 </div>
